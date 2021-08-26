@@ -120,8 +120,16 @@ body {
     -moz-column-count: 1;
          column-count: 1; } }
 
+.ww-donation {
+  margin-bottom: 100px;
+  background: url("../images/donation.jpg") no-repeat center center;
+  background-size: cover;
+  min-height: 500px;
+  position: relative; }
+
 /* RSVP Style */
 .ww-rsvp-detail {
+  margin-bottom: 100px;
   background: url("../images/rsvp-img.jpg") no-repeat center center;
   background-size: cover;
   min-height: 500px;
