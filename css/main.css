@@ -120,9 +120,17 @@ body {
     -moz-column-count: 1;
          column-count: 1; } }
 
+.ww-story {
+  /*margin-bottom: 100px;*/
+  background: url("../images/colours/darkblue-rs.png") no-repeat center center;
+  background-size: cover;
+  min-height: 600px;
+  position: relative;
+}
+
 .ww-donation {
-  margin-bottom: 100px;
-  background: url("../images/donation.jpg") no-repeat center center;
+  /*margin-bottom: 100px;*/
+  background: url("../images/donations.jpg") no-repeat center center;
   background-size: cover;
   min-height: 500px;
   position: relative; }
